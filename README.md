@@ -9,12 +9,20 @@ Goal: developing GUI applications on this basis can take into account both the s
 
 目标：在此基础上开发GUI应用程序可拥有开发WEB应用般简单与速度同时兼顾Native应用程序的性能与体验
 
-build script
+
+build and install avocado tools
 ===============
-build程序依赖python与nodejs
 
-build to xcode ios project :
+build must dependent xcode / python / nodejs / yasm.
 
-./configure --debug --os=ios --arch=arm
+Temporarily support only the IOS platform
 
-make xcode
+install avocado tools `make install`, It takes a long time.
+
+use avocado tools create project.
+
+first create an empty file directory, then execute in the directory
+
+`avocado init`
+
+export ios xcode project `avocado export ios`
