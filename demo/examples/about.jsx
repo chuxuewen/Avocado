@@ -16,7 +16,7 @@ Goal: developing GUI applications on this basis can take into account both the s
 
 Project source code
 ===============
-https://github.com/louis-tru/Avocado
+https://github.com/louis-tru/Avocado.git
 
 Email
 ===============
