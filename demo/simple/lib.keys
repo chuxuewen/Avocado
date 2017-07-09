@@ -1,0 +1,13 @@
+name simple							# 名称
+depe										# 依赖的外部lib
+	# http://avocado-x.org/xxxx
+	# ../xxxx1
+	# ../xxxx2
+#origin				http://avocado-x.org/demo/simple # 如果当前为一个本地lib时程序会在载入时检查更新
+src 					.						# lib资源目录只能是包内路径
+main					index.jsx		# lib主文件
+minify				true
+version 			1.0.0				# 自定义版本号
+# skip_install	1
+# detach				xxxx			# 分离这些文件不打包进主liba压缩文件中
+# skip					xxxx			# 跳过的文件

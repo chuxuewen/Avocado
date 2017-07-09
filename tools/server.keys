@@ -1,0 +1,12 @@
+server
+	temp				out/temp
+	port 				1026
+	auto_index 	true
+	print_log	 	true
+	defaults		index.html index.htm default.html
+	max_file_size 				1073741824 # 1024 * 1024 * 1024
+	max_form_data_size		52428800 # 50 * 1024 * 1024
+	max_upload_file_size 	52428800 # 50 * 1024 * 1024
+	router
+		,
+			match			/{service}/{action}
