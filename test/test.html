@@ -1,0 +1,33 @@
+<!doctype html>
+
+<html>
+  <body>
+    
+    <textarea id="textarea"></textarea>
+    
+    <script>
+      
+      var textarea = document.getElementById('textarea');
+      
+      textarea.onkeydown = function(evt) {
+        console.log('onkeydown', evt.keyCode);
+      }
+      
+      textarea.onkeyup = function(evt) {
+        console.log('onkeyup', evt.keyCode);
+        console.log(textarea.value);
+      }
+      
+      textarea.onkeypress = function(evt) {
+        console.log('onkeypress', evt.keyCode);
+      }
+      
+      textarea.onchange = function(evt) {
+        console.log('onchange', evt.keyCode, textarea.value);
+      }
+      
+    </script>
+    
+  </body>
+  
+</html>

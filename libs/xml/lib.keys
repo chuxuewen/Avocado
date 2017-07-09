@@ -1,0 +1,6 @@
+name 					xml
+src 					.
+main 					xml.js
+version 			1.0.0
+desc					'xml'
+time 					2015-05-22

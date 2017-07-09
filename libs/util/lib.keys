@@ -1,0 +1,9 @@
+# util lib conf info
+name 					util
+src 					.
+main 					util.js
+version 			1.0.0
+desc					'avocado util'
+copyright			'2015 Louis chu'
+author 				'Louis chu louistru@hotmail.com'
+time 					2015-05-22

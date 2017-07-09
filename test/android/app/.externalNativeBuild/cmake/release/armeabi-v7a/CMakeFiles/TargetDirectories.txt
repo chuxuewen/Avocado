@@ -1,0 +1,4 @@
+/Users/louis/Project/avocado/trunk/test/android/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/avocado-gui.dir
+/Users/louis/Project/avocado/trunk/test/android/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/louis/Project/avocado/trunk/test/android/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/louis/Project/avocado/trunk/test/android/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/avocado-util.dir

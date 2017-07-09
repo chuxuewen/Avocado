@@ -1,0 +1,9 @@
+# avocado lib conf info
+name 					gui
+src 					.
+main					gui.js
+version 			1.0.0
+desc					'avocado web gui'
+copyright			'2015 Louis chu'
+author 				'Louis chu louistru@hotmail.com'
+time 					2015-10-11
