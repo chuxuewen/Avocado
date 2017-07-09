@@ -9,7 +9,7 @@ LINK					?= g++
 ENV						?=
 NODE					?= node
 SUFFIX				?= $(ARCHE)
-TOOLS          = ./tools/node_modules/avocado-tools
+TOOLS					 = ./tools/node_modules/avocado-tools
 GYP						 = $(TOOLS)/gyp/gyp
 
 # make-linux

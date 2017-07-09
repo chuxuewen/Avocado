@@ -8,7 +8,7 @@ export const vx = (
 @@Avocado
 ===============
 
-Using C/C++/OpenGL/javascript to implement a GUI typesetting display engine and cross platform GUI application development framework
+Used C/C++/OpenGL/javascript to implement a GUI typesetting display engine and cross platform GUI application development framework
 Goal: developing GUI applications on this basis can take into account both the simplicity and speed of developing WEB applications, as well as the performance and experience of Native applications.
 
 使用C/C++/OpenGL/javascript实现的一个GUI排版显示引擎与跨平台GUI应用开发框架
@@ -16,7 +16,7 @@ Goal: developing GUI applications on this basis can take into account both the s
 
 Project source code
 ===============
-https://github.com/louis-tru/avocado
+https://github.com/louis-tru/Avocado
 
 Email
 ===============

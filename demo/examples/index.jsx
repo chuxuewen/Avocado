@@ -73,7 +73,7 @@ new GUIApplication({ multisample: 4, mipmap: 1 }).start(
             <Navbutton next=components.vx>Components</Navbutton>
             <Navbutton next=media.vx>Multi-Media</Navbutton>
             <Navbutton next=input.vx>Input</Navbutton>
-            <Navbutton next=icons.vx>Icons</Navbutton>
+            <!--Navbutton next=icons.vx>Icons</Navbutton-->
             <Navbutton next=action.vx view.border_width=0>Action</Navbutton>
           </Clip>
           
